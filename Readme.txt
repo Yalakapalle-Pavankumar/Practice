@@ -1,0 +1,1 @@
+This is a practice purpose repository for JAVA FULL STACK DEVELOPMENT
